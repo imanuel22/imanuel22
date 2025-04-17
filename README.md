@@ -15,7 +15,7 @@
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <h1 align="center">Github Statistic</h1>
 <p align="center">
-<a href="https://github.com/IMadeAgus">
+<a href="https://github.com/imanuel22">
    <img height="180em" src="https://github-readme-streak-stats-jade-xi.vercel.app/?user=imanuel22&theme=highcontrast&hide_border=false)"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanuel22&layout=compact&theme=highcontrast"/>
 </a>
