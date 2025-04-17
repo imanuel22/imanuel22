@@ -16,8 +16,8 @@ Hello! I'm MadeAgus. Currently, I am deeply involved in web and mobile developme
 <h1 align="center">Github Statistic</h1>
 <p align="center">
 <a href="https://github.com/imanuel22">
-   <img height="180em" src="https://github-readme-streak-stats-jade-xi.vercel.app/?user=IMadeAgus&theme=highcontrast&hide_border=false)"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMadeAgus&layout=compact&theme=highcontrast"/>
+   <img height="180em" src="https://github-readme-streak-stats-jade-xi.vercel.app/?user=imanuel22&theme=highcontrast&hide_border=false)"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanuel22&layout=compact&theme=highcontrast"/>
 </a>
 </p>
 
